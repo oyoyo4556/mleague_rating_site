@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <!-- 角丸の深い緑背景 -->
+  <rect width="32" height="32" rx="8" fill="#0f3822"/>
+  <!-- 太めの白文字 M -->
+  <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" fill="#ffffff" font-family="sans-serif" font-weight="900" font-size="20">M</text>
+</svg>
