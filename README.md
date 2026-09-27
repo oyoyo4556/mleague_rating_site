@@ -1,0 +1,2 @@
+# mleague_rating_site
+麻雀のMリーグのレーティングサイト
